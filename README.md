@@ -75,7 +75,3 @@ This project implements an advanced outfit recommendation system using the H&M d
    ```python
    python fashion_recommender.py
    ```
-
-## Acknowledgements
-
-This project utilizes the H&M dataset and builds upon state-of-the-art language models from Hugging Face.
